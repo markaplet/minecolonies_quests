@@ -1,4 +1,4 @@
-[Questline Screenshot](screenshot.png)
+![Questline Screenshot](screenshot.png)
 
 # FTB Quest Line for Minecolonies
 MC version: 1.20.1 [forge]
